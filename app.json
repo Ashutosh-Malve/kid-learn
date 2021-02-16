@@ -1,0 +1,16 @@
+{
+  "name": "Kids_learn",
+  "displayName": "Kids_learn",
+  "expo": {
+    "name": "Kids_learn",
+    "slug": "Kids_learn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android":{
+      "package":"com.kids_learn.kids_learn",
+      "versionCode":1
+    }
+  }
+}
